@@ -5,16 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- ⚡ Estudante de Desenvolvimento Web Full Stack  
-- ⚡ Estudante de Desenvolvimento e Análise de Sistemas
-- ⚡ Atualmente estou aprendendo React e CSharp 
-
-
-
-
-
-
-
 <div>
 <a href="https://github.com/fernandasoaress">
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasoaress&layout=compact&langs_count=7&theme=dracula"/>

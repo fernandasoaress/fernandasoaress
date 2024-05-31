@@ -1,27 +1,10 @@
-### Olá, me chamo Fernanda👋
+### Olá, me chamo Fernanda. 
 
 <!--
 **fernandasoaress/fernandasoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-<div>
-<a href="https://github.com/fernandasoaress">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasoaress&layout=compact&langs_count=7&theme=dracula"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=fernandasoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <br>
-  <div>
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="center" " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</div>
-  <br> 
   
 <div>
   <div>
